@@ -3,16 +3,16 @@ p {
     font-family: Verdana, DejaVu Sans, sans-serif;
 }
 
-.second-element {
+#second-element {
     color: blue;
     font-size: 36px;
 }
 
-.thrid-element {
+.third-element {
     font-size: 24px;
 }
 
-.fourth-element {
+#fourth-element {
     background: lightgreen;
     font-size: 24px;
     font-weight: bold;
