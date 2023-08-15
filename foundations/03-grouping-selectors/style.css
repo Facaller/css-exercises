@@ -1,0 +1,15 @@
+.first-element, .second-element {
+    font-size: 28px;
+    font: Helvetica, 'Times New Roman', sans-serif;
+    align-items: center;
+    justify-content: center;
+}
+
+.first-element {
+    background: black;
+    color: white;
+}
+
+.second-element {
+    background: yellow;
+}
