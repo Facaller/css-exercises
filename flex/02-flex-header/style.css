@@ -2,7 +2,8 @@
   font-family: monospace;
   background: papayawhip;
   display: flex;
-  gap: 15px;
+  padding: 10px;
+  align-items: center;
   justify-content: space-between;
 }
 
@@ -18,14 +19,14 @@
   display: flex;
   justify-content: flex-start;
   gap: 15px;
-  padding: 7px 0px 7px 10px;
+  padding: 0px
   }
 
 .right-links {
   display: flex;
   justify-content: flex-end;
   gap: 15px;
-  padding: 7px 10px 7px 0px;
+  padding: 0px
 }
 
 ul {
