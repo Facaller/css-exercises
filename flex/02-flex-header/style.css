@@ -1,6 +1,9 @@
 .header  {
   font-family: monospace;
   background: papayawhip;
+  display: flex;
+  gap: 15px;
+  justify-content: space-between;
 }
 
 .logo {
@@ -9,6 +12,20 @@
   color: tomato;
   background: white;
   padding: 4px 32px;
+}
+
+.left-links {
+  display: flex;
+  justify-content: flex-start;
+  gap: 15px;
+  padding: 7px 0px 7px 10px;
+  }
+
+.right-links {
+  display: flex;
+  justify-content: flex-end;
+  gap: 15px;
+  padding: 7px 10px 7px 0px;
 }
 
 ul {
