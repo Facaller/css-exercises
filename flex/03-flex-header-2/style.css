@@ -16,6 +16,7 @@ body {
   align-items: center;
   padding: 8px;
 }
+/* add sections to either side */
 
 .profile-image {
   background: rebeccapurple;
@@ -31,12 +32,6 @@ body {
   font-weight: 900;
   font-style: italic;
   padding: 10px;
-}
-
-.logo, ul {
-  display: flex;
-  justify-content: flex-start;
-  gap: 15px;
 }
 
 button {
