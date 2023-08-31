@@ -13,17 +13,17 @@ img {
   font-weight: 900;
   display: flex;
   justify-content: center;
-  padding-bottom: 32px;
+  margin-bottom: 32px;
 }
 
 .plants {
   display: flex;
-  justify-content: space-evenly;
+  justify-content: center;
   text-align: center;
   gap: 52px;
 }
 
-.text {
+.info {
   max-width: 200px;
 }
 
