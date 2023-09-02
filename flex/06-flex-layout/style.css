@@ -16,6 +16,7 @@ button {
   border: none;
   border-radius: 8px;
   background: #eee;
+  padding: 7px 14px;
 }
 
 input {
@@ -43,6 +44,15 @@ a:link {
   justify-content: space-between;
   margin: 50px;
 }
+
+.footer {
+  background:#eee;
+}
+
+/*  get footer padding right and center main content 
+    test flex:column for header and footer to
+    use middle of page space
+*/
 
 .left-links, .right-links {
   gap: 20px;
