@@ -37,3 +37,20 @@ a:link {
   text-decoration: none;
   color: rgb(70, 68, 68);
 }
+
+.header, .footer {
+  display: flex;
+  justify-content: space-between;
+  margin: 50px;
+}
+
+.left-links, .right-links {
+  gap: 20px;
+}
+
+.content {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
