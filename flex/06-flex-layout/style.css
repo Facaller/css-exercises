@@ -48,7 +48,6 @@ a:link {
 }
 
 .footer {
-  margin-top: auto;
   background:#eee;
   border-radius: 7px;
 }
@@ -62,5 +61,5 @@ a:link {
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  margin: auto;
+  flex: 1;
 }
