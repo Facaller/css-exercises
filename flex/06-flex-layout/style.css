@@ -41,19 +41,16 @@ a:link {
   color: rgb(70, 68, 68);
 }
 
-.header {
+.header, .footer {
   display: flex;
   justify-content: space-between;
-  margin: 15px;
+  padding: 15px;
 }
 
 .footer {
-  display: flex;
   margin-top: auto;
-  justify-content: space-between;
   background:#eee;
   border-radius: 7px;
-  padding: 15px;
 }
 
 .left-links, .right-links {
