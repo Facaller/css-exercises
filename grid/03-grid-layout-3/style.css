@@ -47,6 +47,8 @@
 .sidebar {
   grid-column: 1 / 2;
   grid-row: 2 / 4;
+  display: grid;
+  gap: 50px;
   background-color: #C50208;
 }
 
@@ -64,6 +66,11 @@
   color: black;
   font-size: 16px;
   font-weight: normal;
+}
+
+.side-content {
+  display: grid;
+  align-items: center;
 }
 
 .nav {
